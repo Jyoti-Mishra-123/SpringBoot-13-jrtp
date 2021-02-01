@@ -10,6 +10,8 @@ public class SpringBootApp4Application {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run = SpringApplication.run(SpringBootApp4Application.class, args);
 		String s="Java";
+		int a=60;
+		int b=80;
 		System.out.println(s.length());
 	}
 
