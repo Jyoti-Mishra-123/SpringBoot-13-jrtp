@@ -12,6 +12,7 @@ public class SpringBootApp4Application {
 		String s="Java";
 		int a=60;
 		int b=80;
+		System.out.println("addition");
 		System.out.println(s.length());
 	}
 
